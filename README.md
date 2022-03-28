@@ -10,11 +10,10 @@
 
 **Membuat Ordered List**
 - kemudian tambahkan kode untuk membuat Ordered List seperti berikut:
-
-
+![ss3](https://user-images.githubusercontent.com/46867774/160425651-6e18d3c9-a4e4-43f0-a9bd-2515d6d01b76.png)
 
 - kemudian lakukan refresh pada web browser, daN Lihat perubahannya.:
-
+![ss4](https://user-images.githubusercontent.com/46867774/160425680-aa4e92c6-688b-43ae-9cbc-3ecfeff5afa3.png)
 
 **Membuat Unordered List**
 
