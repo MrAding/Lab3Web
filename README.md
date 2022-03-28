@@ -5,13 +5,8 @@
 - Persiapkan membuat dokumen HTML dengan nama file Lab3_list.HTML seperti berikut:
 ![ss1](https://user-images.githubusercontent.com/46867774/160422531-f9298896-4242-4374-b944-c1679ef7434f.png)
 
-
-
 - kemudian jalankan Web Browser dengan mengklik Menu Terminal pada pojok atas pada  VS CODE. lihat perubahannya.
-
-
-
-
+![ss2](https://user-images.githubusercontent.com/46867774/160422958-da7405e7-8a60-40ba-9897-4722cb3aed9a.png)
 
 **Membuat Ordered List**
 - kemudian tambahkan kode untuk membuat Ordered List seperti berikut:
