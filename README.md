@@ -3,6 +3,7 @@
 **Langkah-langkah Praktikum**
 
 - Persiapkan membuat dokumen HTML dengan nama file Lab3_list.HTML seperti berikut:
+![ss1](https://user-images.githubusercontent.com/46867774/160422531-f9298896-4242-4374-b944-c1679ef7434f.png)
 
 
 
