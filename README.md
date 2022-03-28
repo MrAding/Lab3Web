@@ -62,27 +62,20 @@ Selanjutnya lakukan eksperimen lain terkait dengan list dan penggunaan atribut t
 **Membuat Form**
 
 buatlah file baru dengan nama lab3_form.html seperti berikut:
-
-
+![ss15](https://user-images.githubusercontent.com/46867774/160443108-d45e5482-a605-44c7-8db2-4a967c88dd5e.png)
 
 - Kemudian selanjutnya menambahkan kode untuk membuat tabel sederhana seperti berikut:
-
+![ss16](https://user-images.githubusercontent.com/46867774/160443124-f77deb6a-d6a9-4bd9-b81c-76967139a5db.png)
 
 - Amati perubahannya pada web browser anda:
-
-
-
-
+![ss17](https://user-images.githubusercontent.com/46867774/160443151-960b67ab-97d7-412f-b36d-ba592b5915fa.png)
 
 **Menambahkan Style CSS pada Form**
 Untuk memperindah tampilan form, bisa kita tambahkan CSS seperti berikut:
-
-
+![ss18](https://user-images.githubusercontent.com/46867774/160443242-1b19012f-06f2-4c01-b52d-c78f1dec020f.png)
 
 - Lakukan Refresh pada Web Browser, dan Simaklah perubahan yang terjadi setelahnya:
 
-
-
-
+![ss19](https://user-images.githubusercontent.com/46867774/160443253-b05c20c9-de81-4820-914d-570da6e549fe.png)
 
 Cukup Sekian Penjelasan tentang cara membuat List, Form dan Table Sederhana. Semoga apa yang saya bagikan dapat berguna bagi kalian semua amiiin...!
