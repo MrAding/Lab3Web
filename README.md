@@ -45,10 +45,15 @@ Selanjutnya lakukan eksperimen lain terkait dengan list dan penggunaan atribut t
 
 **Cara Mengatur Margin dan Padding**
 <P> Untuk mengatur Margin dan Padding pada cell data, tambahkan atribut cellpadding dan cellspacing pada tag table.
+  
+  
+  
 ![ss12](https://user-images.githubusercontent.com/46867774/160437139-9452fba9-95a1-4e43-84f0-a7b34aa8f554.png)
 
 **Menggabungkan Sel Data**
 <P>Untuk mengggabungkan sel data, gunkan atribut rowspan dan colspan. Atribut rowspan berfungsi untuk menggabungkan baris Secara Vertikal dan Colspan berfungsi untuk menggabungkan kolom secara Horizontal.
+  
+  
 ![ss13](https://user-images.githubusercontent.com/46867774/160437206-e3842762-0266-4981-98a6-c60eaeca69f2.png)
 
 - Lakukan Refresh kembali pada web Browser, dan lihat perubahannya:
