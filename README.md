@@ -13,24 +13,23 @@
 ![ss3](https://user-images.githubusercontent.com/46867774/160425651-6e18d3c9-a4e4-43f0-a9bd-2515d6d01b76.png)
 
 - kemudian lakukan refresh pada web browser, daN Lihat perubahannya.:
-![ss4](https://user-images.githubusercontent.com/46867774/160425680-aa4e92c6-688b-43ae-9cbc-3ecfeff5afa3.png)
+![ss4](https://user-images.githubusercontent.com/46867774/160430600-cc895aa6-e891-4780-8fbe-08a32cd7cc92.png)
+
 
 **Membuat Unordered List**
 
 - Kemudian tambahkan code untuk membuat Unordered List, setalah deklarasi Ordered list pada section Unordered-List, Seperti berikut:
-
+![ss5](https://user-images.githubusercontent.com/46867774/160430627-9505b5b3-bd0a-4872-9ace-4f10103b3da2.png)
 
 - Lakukan Refresh, dan lihat perubahannya:
-
-
+![ss6](https://user-images.githubusercontent.com/46867774/160430646-e9658e17-6a30-43df-ae0c-d0c6e6451c7c.png)
 
 **Membuat Description List**
 - Kemudian tambahkan code untuk membuat description list setelah deklarasi unordered-list:
-
-
+![ss7](https://user-images.githubusercontent.com/46867774/160430663-1e3564c7-6d5c-4415-a3f9-7f2fd4c2a1ee.png)
 
 - Refresh Kembali Web Browser, dan lihat perubahannya:
-
+![ss8](https://user-images.githubusercontent.com/46867774/160430691-701a224d-d8d5-4eb6-96ff-4be088eb13b4.png)
 
 Selanjutnya lakukan eksperimen lain terkait dengan list dan penggunaan atribut type pada list.
 
