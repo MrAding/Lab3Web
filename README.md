@@ -35,13 +35,13 @@ Selanjutnya lakukan eksperimen lain terkait dengan list dan penggunaan atribut t
 
 **Membuat Tabel**
 -Buat file baru dengan nama lab3_tabel.html seperti berikut ini:
-
+![ss9](https://user-images.githubusercontent.com/46867774/160434674-6194c8cf-af8c-4587-a6d8-5dbb6d05abd9.png)
 
 - kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut ini:
-
+![ss10](https://user-images.githubusercontent.com/46867774/160434722-a8a5899f-dce1-491f-85f1-cb0b95bead64.png)
 
 - lalu refresh kembali web browser, dan amati lagi perubahannya:
-
+![ss11](https://user-images.githubusercontent.com/46867774/160434774-f6b75903-873a-40f6-b405-453ec978d62d.png)
 
 **Cara Mengatur Margin dan Padding**
 <P> Untuk mengatur Margin dan Padding pada cell data, tambahkan atribut cellpadding dan cellspacing pada tag table.
