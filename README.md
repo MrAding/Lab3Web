@@ -108,12 +108,14 @@ Untuk memperindah tampilan form, bisa kita tambahkan CSS seperti berikut:
   - Untuk Hasil Outputnya, sebagai berikut :
 
 **Form Masih Kosong**
+  
+  
 ![ss output form](https://user-images.githubusercontent.com/46867774/160708862-d491ff9f-cc96-4676-967a-3b51bb1b6ebd.png)
   
 **Form Sudah Diisi**
+  
+  
 ![ss output isi](https://user-images.githubusercontent.com/46867774/160708907-11179185-32e1-458a-8902-3b53fd2245b1.png)
-
-
 
   
 Cukup Sekian Penjelasan tentang cara membuat List, Form dan Table Sederhana. Semoga apa yang saya bagikan dapat berguna bagi kalian semua amiiin...!
