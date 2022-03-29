@@ -1,4 +1,12 @@
 # Lab3Web
+```
+Nama    : Ahmad Fadhiil Muttaqin
+Nim     : 312010615
+Kelas   : TI.20.A.1
+Matkul  : Pemrograman Web
+```
+**NOTICE!!**
+**Untuk melihat output secara rinci, silahkan anda bisa download file ```lab3_form_dropdown```, ```style_dropdown``` & ```Logo_UPB```. ditempatkan dalam 1 folder agar bisa berjalan sempurna untuk melihat output ```multiple selection```**
 
 **Langkah-langkah Praktikum**
 
@@ -121,4 +129,4 @@ Untuk memperindah tampilan form, bisa kita tambahkan CSS seperti berikut:
 Cukup Sekian Penjelasan tentang cara membuat List, Form dan Table Sederhana. Semoga apa yang saya bagikan dapat berguna bagi kalian semua amiiin...!
 
   
-  **Untuk melihat output secara rinci, silahkan anda bisa download file ```lab3_form_dropdown```, ```stle_dropdown``` & ```Logo_UPB```. ditempatkan dalam 1 folder agar bisa berjalan sempurna untuk melihat output ```multiple selection```**
+  **Untuk melihat output secara rinci, silahkan anda bisa download file ```lab3_form_dropdown```, ```style_dropdown``` & ```Logo_UPB```. ditempatkan dalam 1 folder agar bisa berjalan sempurna untuk melihat output ```multiple selection```**
