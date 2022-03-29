@@ -85,7 +85,7 @@ Untuk memperindah tampilan form, bisa kita tambahkan CSS seperti berikut:
 # Jawaban
   Membuat Dropdown & Listbox dengan multiple selection menggunakan VSCode (Visual Studio Code)
   - Buat file dengan nama lab3_form_dropdown.html
-  - Buat kerangka html, isi kerangka ada dropdown menu, kemudian <h1>, <form action="proses.php" method="post"> 
+  - Buat kerangka html, isi kerangka ada dropdown menu, kemudian ```<h1>```, ```<form action="proses.php" method="post">``` 
   - form ini menggunakan multiple selection. seperti pada gambar berikut :
   
 **Gambar 1**
