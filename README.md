@@ -84,9 +84,9 @@ Untuk memperindah tampilan form, bisa kita tambahkan CSS seperti berikut:
 
 # Jawaban
   Membuat Dropdown & Listbox dengan multiple selection menggunakan VSCode (Visual Studio Code)
-  - Buat file dengan nama lab3_form_dropdown.html
+  - Buat file dengan nama ```lab3_form_dropdown.html```
   - Buat kerangka html, isi kerangka ada dropdown menu, kemudian ```<h1>```, ```<form action="proses.php" method="post">``` 
-  - form ini menggunakan multiple selection. seperti pada gambar berikut :
+  - form ini menggunakan ```multiple selection```. seperti pada gambar berikut :
   
 **Gambar 1**
 ![ss1](https://user-images.githubusercontent.com/46867774/160708237-388cf31a-20fd-4439-9b6c-3d5a14cd47e4.png)
@@ -97,7 +97,7 @@ Untuk memperindah tampilan form, bisa kita tambahkan CSS seperti berikut:
 **Gambar 3**
 ![ss3](https://user-images.githubusercontent.com/46867774/160708269-e46a11cf-00d2-41ac-a16b-b370c1a25eef.png)
   
-  - Untuk codingan kerangka css (style.css). seperti pada gambar berikut :
+  - Untuk codingan kerangka ```css``` ```(style.css)```. seperti pada gambar berikut :
  
 **Gambar 1**
 ![ss4](https://user-images.githubusercontent.com/46867774/160708641-b962fd22-66a8-4240-8a48-adcf9fe1dae8.png)
@@ -119,4 +119,4 @@ Untuk memperindah tampilan form, bisa kita tambahkan CSS seperti berikut:
 
   
 Cukup Sekian Penjelasan tentang cara membuat List, Form dan Table Sederhana. Semoga apa yang saya bagikan dapat berguna bagi kalian semua amiiin...!
-**Untuk melihat output secara rinci, silahkan anda bisa download file lab3_form_dropdown, stle_dropdown & Logo_UPB. ditempatkan dalam 1 folder agar bisa berjalan sempurna untuk melihat output multiple selection**
+**Untuk melihat output secara rinci, silahkan anda bisa download file ```lab3_form_dropdown```, ```stle_dropdown``` & ```Logo_UPB```. ditempatkan dalam 1 folder agar bisa berjalan sempurna untuk melihat output ```multiple selection```**
