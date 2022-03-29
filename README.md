@@ -77,5 +77,43 @@ Untuk memperindah tampilan form, bisa kita tambahkan CSS seperti berikut:
 - Lakukan Refresh pada Web Browser, dan Simaklah perubahan yang terjadi setelahnya:
 
 ![ss19](https://user-images.githubusercontent.com/46867774/160443253-b05c20c9-de81-4820-914d-570da6e549fe.png)
+  
+  
+# Pertanyaan & Tugas
+  1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 
+# Jawaban
+  Membuat Dropdown & Listbox dengan multiple selection menggunakan VSCode (Visual Studio Code)
+  - Buat file dengan nama lab3_form_dropdown.html
+  - Buat kerangka html, isi kerangka ada dropdown menu, kemudian <h1>, <form action="proses.php" method="post">
+    form ini menggunakan multiple selection. seperti pada gambar berikut :
+  
+**Gambar 1**
+![ss1](https://user-images.githubusercontent.com/46867774/160708237-388cf31a-20fd-4439-9b6c-3d5a14cd47e4.png)
+  
+**Gambar 2**
+![ss2](https://user-images.githubusercontent.com/46867774/160708252-549a2261-7a32-44fd-b9bb-77e57b482405.png)
+  
+**Gambar 3**
+![ss3](https://user-images.githubusercontent.com/46867774/160708269-e46a11cf-00d2-41ac-a16b-b370c1a25eef.png)
+  
+  - Untuk codingan kerangka css (style.css). seperti pada gambar berikut :
+ 
+**Gambar 1**
+![ss4](https://user-images.githubusercontent.com/46867774/160708641-b962fd22-66a8-4240-8a48-adcf9fe1dae8.png)
+
+**Gambar 2**
+![ss5](https://user-images.githubusercontent.com/46867774/160708677-6dda8b51-c898-4c52-a989-397b1d1c4294.png)
+  
+  - Untuk Hasil Outputnya, sebagai berikut :
+
+**Form Masih Kosong**
+![ss output form](https://user-images.githubusercontent.com/46867774/160708862-d491ff9f-cc96-4676-967a-3b51bb1b6ebd.png)
+  
+**Form Sudah Diisi**
+![ss output isi](https://user-images.githubusercontent.com/46867774/160708907-11179185-32e1-458a-8902-3b53fd2245b1.png)
+
+
+
+  
 Cukup Sekian Penjelasan tentang cara membuat List, Form dan Table Sederhana. Semoga apa yang saya bagikan dapat berguna bagi kalian semua amiiin...!
