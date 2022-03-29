@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Lab 3 - Form Dropdown</title>
+        <link rel="stylesheet" href="STYLE CSS.css" type="text/css">
+    </head>
+    <body>
+        <div class="header">
+            <div>
+                <img class="Logo_UPB" src="D:\Mata Kuliah Semester 4\Matkul Pemrograman Web Semester 4\Pertemuan 4\Praktikum3\Logo_UPB.png" width="85" height="80">
+            </div>
+            <div>
+                <h1>Form Mahasiswa UPB</h1>
+            </div>
+        </div>
+        
+        <form action="proses.php" method="post">
+            <fieldset>
+                <legend>Data Mahasiswa</legend>
+                <label for="nama">Nama</label>
+                <input type="text" id="nama" name="nama">
+                
+                <label for="nim">NIM</label>
+                <input type="text" id="nim" name="nim">
+                
+                <label for="jenis kelamin">Jenis Kelamin</label>
+                <input id="jk_l" type="radio" name="kelamin" value="L" />
+                
+                <label for="jk_l">Laki-laki</label>
+                <input id="jk_p" type="radio" name="kelamin" value="P" />
+                <label for="jk_p">Perempuan</label>
+                
+                <br><br>
+                <label for="fakultas">Fakultas</label>
+                <select name="fakultas">
+                    <option value="" selected>--Pilih Fakultas--</option>
+                    <option value="T">Fakultas Teknik</option>
+                    <option value="B">Fakultas Ekonomi & Bisnis</option>
+                    <option value="P">Fakultas Ilmu Pendidikan</option>
+                    <option value="H">Fakultas Hukum</option>
+                </select>
+                
+                <label for="prodi">Prodi</label>
+                <select name="prodi">
+                    <option value="" selected="selected">--Pilih Prodi--</option>
+                    <option value="ti">Teknik Informatika</option>
+                    <option value="ti">Teknik industri</option>
+                    <option value="tl">Teknik Lingkungan</option>
+                    <option value="m">Manajemen</option>
+                    <option value="ak">Akuntansi</option>
+                    <option value="pd">PAUD</option>
+                    <option value="pd">PGSD</option>
+                    <option value="hk">Hukum</option>
+                </select><br>
+                
+                <label for="program">Program Studi</label>
+                <select name="program">
+                    <option value="" selected="selected">--Pilih Program Studi--</option>
+                    <option value="d">D3</option>
+                    <option value="s">S1</option>
+                    <option value="m">S2</option>
+                </select><br>
+
+                <label for="angkatan">Tahun Angkatan</label>
+                <select name="angkatan">
+                    <option value="" selected="selected">--Pilih Tahun Angkatan--</option>
+                    <option value="19">2019/2020</option>
+                    <option value="20">2020/2021</option>
+                    <option value="21">2021/2022</option>
+                    <option value="22">2022/2023</option>
+                </select><br>
+                
+                <label for="alamat">Alamat</label>
+                <textarea id="alamat" name="alamat" cols="20" rows="3"></textarea>
+                <p>
+                    <input type="submit" value="Daftar">
+                    <input type="submit" value="Login">
+                    <input type="submit" value="Kembali">
+                    <input type="submit" value="Keluar">
+                    <input type="submit" value="Cetak">
+                    <input type="reset" value="Reset">
+                </p>
+            </fieldset>
+        </form>
+    </body>
+    
+</html>

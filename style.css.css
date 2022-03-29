@@ -1,0 +1,24 @@
+<style>
+    form p>label {
+        display: inline-block;
+        width: 100px;
+    }
+
+    form input[type="tex"], form textarea {
+        border: 1px solid #197a43;
+    }
+
+    form input[type="submit"] {
+        border: 1px solid #197a43;
+        background-color: #e40000;
+        color: #ffffff;
+        font-weight: bold;
+        padding: 5px 15px;
+    }
+
+    legend {
+        font: 75px bold;
+        color: rgb(6, 175, 63);
+        font-weight: bolder;
+    }
+</style>
